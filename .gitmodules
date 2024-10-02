@@ -1,0 +1,3 @@
+[submodule "shared/microui-odin"]
+	path = shared/microui-odin
+	url = git@github.com:set0xc3/microui-odin.git
